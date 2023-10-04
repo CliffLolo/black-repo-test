@@ -1,3 +1,2 @@
 #comment
-def blacktest():
-  print("hm")
+def blacktest():print("hm")
